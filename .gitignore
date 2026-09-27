@@ -1,0 +1,32 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# STM32CubeIDE generated build directories
+ST/STM32F3_Embedded_Synth/Debug/
+ST/STM32F3_Embedded_Synth/Release/
+
+# Local STM32CubeIDE debug configurations and logs
+*.launch
+*.log
+
+# Compiled firmware artifacts
+*.o
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+*.d
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+#ppt
+SINTETIZZATORE.pptx

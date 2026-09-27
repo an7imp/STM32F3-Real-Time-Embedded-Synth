@@ -1,0 +1,7 @@
+#ifndef AUDIO_CONFIG_H
+#define AUDIO_CONFIG_H
+
+#define SAMPLE_RATE 48000U
+#define TABLE_SIZE 1024U
+
+#endif /* AUDIO_CONFIG_H */
