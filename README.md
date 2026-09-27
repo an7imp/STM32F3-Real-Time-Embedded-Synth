@@ -2,7 +2,7 @@
 
 This repository contains a real-time monophonic digital synthesizer built around an **STM32F3Discovery** board and an external **PCM5102A audio DAC**. A MIDI keyboard controls the synthesizer through a small Python bridge, while the STM32 generates and processes the audio signal before sending it to the DAC over I2S.
 
-The project originally started as the final project for the **Architettura e Progetto dei Calcolatori** course, taught by **Professor Nicola Mazzocca** at the **University of Naples Federico II**, as part of the **Master's Degree in Computer Engineering**, academic year **2024/2025**. The original course version was developed together with my colleague **Mirko Fanini**. After the exam, I continued and expanded the project with additional DSP features, improved real-time diagnostics, signal analysis tools and a more modular software architecture.
+The project originally started as the final project for the **Computer Architecture and Design** course, taught by **Professor Nicola Mazzocca** at the **University of Naples Federico II**, as part of the **Master's Degree in Computer Engineering**, academic year **2024/2025**. The original course version was developed together with my colleague **Mirko Fanini**. After the exam, I continued and expanded the project with additional DSP features, improved real-time diagnostics, signal analysis tools and a more modular software architecture.
 
 Authors: **Antonio Maria Improta**.
 
