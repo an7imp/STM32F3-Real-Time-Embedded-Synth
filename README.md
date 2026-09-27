@@ -324,6 +324,4 @@ These scripts make the DSP implementation easier to verify before testing the co
 - The synthesizer is monophonic.
 - Audio is generated as mono and duplicated on both I2S channels.
 - Mipmapped tables change level without a crossfade.
-- Nonlinear processing can generate additional harmonics after the oscillator.
 - The serial and MIDI port names in the Python script may need to be changed for another computer.
-- Hardware measurements remain important because a software simulation cannot include DAC, clock and analog-output effects.
